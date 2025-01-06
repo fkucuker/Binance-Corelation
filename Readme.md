@@ -4,6 +4,8 @@ This project leverages the Binance API to analyze historical closing data (15-mi
 
 This enables users to potentially take advantage of arbitrage opportunities by opening long and short positions on correlated pairs.
 
+![Project Overview - visual selection](https://github.com/user-attachments/assets/861856c0-be9f-49c2-8f40-7538b301ed03)
+
 Features
 
 Historical closing price analysis using Binance API.
@@ -15,6 +17,9 @@ Automated filtering of pairs for potential arbitrage opportunities.
 Export results to Excel for further analysis.
 
 Visual representation of correlations using heatmaps.
+
+![Project Overview - visual selection (1)](https://github.com/user-attachments/assets/7742429d-5d2f-4827-8da4-bd4ebf214c81)
+
 
 Installation
 
